@@ -102,13 +102,13 @@ Salary Rank =
 ## 📸 Screenshots
 
 ### Page 1 — Global Overview
-![Global Overview](screenshots/page1.png)
+![Global Overview](screenshots/GLOBAL%20OVERVIEW.png)
 
 ### Page 2 — Salary Intelligence
-![Salary Intelligence](screenshots/page2.png)
+![Salary Intelligence](screenshots/SALARY%20INTELLIGENCE.png)
 
 ### Page 3 — Skills & Trends
-![Skills & Trends](screenshots/page3.png)
+![Skills & Trends](screenshots/SKILLS%20AND%20TRENDS.png)
 
 ---
 
